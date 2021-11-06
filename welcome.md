@@ -14,3 +14,6 @@ Some next steps:
 - [ ] Create project pages to summarize milestones?
 
 Welcome!
+
+[Return home](https://tgustilo.github.io/mpnc4-maker-journal/)
+
