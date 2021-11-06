@@ -1,0 +1,11 @@
+# Welcome to my Build Journal
+
+This journal (set of notes) is to document my build projects for Makerpad No Code Fundamentals Cohort 4. I'm still deciding exactly what projects I'll work on, but they will revolve around content, and using Github to manipulate that content (as "CMS"). I want to see what all can be done to leverage content dropped here.
+
+Some next steps:
+- [ ] Need dated entry scheme (and commit to posting frequency)
+- [ ] Need a landing / index page
+- [ ] Find / tweak a couple theme elements (css) (eventually see if I can build a custom theme via Webflow / export)
+- [ ] Create project pages to summarize milestones?
+
+Welcome!
