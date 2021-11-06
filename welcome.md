@@ -9,9 +9,10 @@ Completed steps:
 
 Some next steps:
 - [ ] Need dated entry scheme (and commit to posting frequency)
-- [ ] Need a landing / index page
+- [x] Need a landing / index page
 - [ ] Find / tweak a couple theme elements (css) (eventually see if I can build a custom theme via Webflow / export)
 - [ ] Create project pages to summarize milestones?
+- [ ] need to fix page header on notes to be blog title (does it link home?)
 
 Welcome!
 
