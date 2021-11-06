@@ -2,16 +2,23 @@
 layout: index
 title: Home
 ---
-# Plain Vanilla GitHub Pages
-The purpose of this project is to make it as easy as possible for low-tech people like me to create and host basic web pages for free on [GitHub Pages](https://pages.github.com/).
+# Tracy's Build Journal
 
-## How it works
-After creating your own copy of this template repository, add new pages as you need them using the markdown (.md) format. See the [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) reference for how to add different elements to your pages. If you want to go beyond markdown and add more interactive elements (like button links for navigation components), you can copy and paste code snippets for [GitHub Primer components](https://primer.style/css/components) right into your pages.
+Gonna conquer Github! This is my build journal for Makerpad No Code Fundamentals Cohort #4, built on Github Pages.
+
+![It'll be a Mt Everest moment](https://2.bp.blogspot.com/_ORWcXb0DpMU/Sy1aoWRJdwI/AAAAAAAAAQg/oTsOjIwEMew/s640/1608191-Conquering-Everest-0.jpeg)
+
+## Posts
+
+[Welcome - A first post](https://tgustilo.github.io/mpnc4-maker-journal/welcome.html)
+
+
+---
+
+Credits: the Awesome Philip Levy for making the template and instructional video! Access here:
 
 <div class="my-6 text-center">
 <a href="https://github.com/pglevy/plain-vanilla-gh-pages" class="btn-mktg btn-large-mktg">Get the template on GitHub</a>
   <br>
 <a href="https://youtu.be/jlkHEmgQhGU" class="btn-mktg btn-outline-mktg mt-3">Watch the tutorial on YouTube</a>
 </div>
-
-![Screenshot of "create a new repository" action](assets/img/create-repo.jpg)
