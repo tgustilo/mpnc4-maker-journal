@@ -2,7 +2,7 @@
 
 This week's project is to work on landing pages.
 
-Worked on today
+Steps completed today
 
 ✅ added folders and drafts here on my build journal (put drafts in "_drafts" folder; folders will require an extra url step: my-site/posts/post1.html)
 ✅ added projects and notes folders, as well as posts; and added a couple files (see index)
@@ -11,8 +11,10 @@ Worked on today
 
 Next steps
 
-- fix the formatting on tasks (displays fine in Github preview, but browser adds bullet in front of checkbox. For now, will just use an emoji or bullet instead)
-- choose which landing page you'll work on (see [Ideas](https://tgustilo.github.io/mpnc4-maker-journal/projects/landing-page-ideas.html)
+- ? fix the formatting on tasks (displays fine in Github preview, but browser adds bullet in front of checkbox. For now, will just use an emoji or bullet instead)
+- choose which landing page you'll work on (see [Ideas](https://tgustilo.github.io/mpnc4-maker-journal/projects/landing-page-ideas.html))
+- review jekyll documentation, esp pages and [posts](https://jekyllrb.com/docs/posts/)
+- try "." while in my github repo to get to an online web version of VS Code web for easier editing OR 🥴 create a local repo so I can edit files more conveniently off-line 
 
 
 
