@@ -16,6 +16,9 @@ Next steps
 
 - ? fix the formatting on tasks (displays fine in Github preview, but browser adds bullet in front of checkbox. For now, will just use an emoji or bullet instead)
 - choose which landing page you'll work on (see [Ideas](https://tgustilo.github.io/mpnc4-maker-journal/projects/landing-page-ideas.html))
+- update [cohort projects](https://tgustilo.github.io/mpnc4-maker-journal/projects/cohort-projects.html)
+- do it! [landing page creation notes](https://tgustilo.github.io/mpnc4-maker-journal/notes/landing-pages.html)
+- write up my research & thoughts on CTAs (will be [cta notes](https://tgustilo.github.io/mpnc4-maker-journal/notes/ctas.html))
 - review jekyll documentation, esp pages and [posts](https://jekyllrb.com/docs/posts/)
 - try "." while in my github repo to get to an online web version of VS Code web for easier editing OR 🥴 create a local repo so I can edit files more conveniently off-line 
 
