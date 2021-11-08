@@ -2,7 +2,7 @@
 layout: index
 title: Home
 ---
-# Tracy's Build Journal
+# Tracy's Build Journal (Nov - Dec 2021)
 
 Gonna conquer Github! This is my build journal for Makerpad No Code Fundamentals Cohort #4, built on Github Pages.
 
@@ -11,6 +11,8 @@ Gonna conquer Github! This is my build journal for Makerpad No Code Fundamentals
 ## Daily(ish) Posts
 
 [Welcome - A first post](https://tgustilo.github.io/mpnc4-maker-journal/welcome.html)
+
+[Day 1](https://tgustilo.github.io/mpnc4-maker-journal/posts/day-1.html)
 
 
 ## Projects
