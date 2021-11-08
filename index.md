@@ -21,7 +21,7 @@ Check out these posts to see how I'm organizing work on specific projects.
 
 [Makerpad Cohort Assignments](https://tgustilo.github.io/mpnc4-maker-journal/projects/cohort-projects.html)
 
-[Landing Page Ideas](https://tgustilo.github.io/mpnc4-maker-journal/projects/landing-page-ideas.md)
+[Landing Page Ideas](https://tgustilo.github.io/mpnc4-maker-journal/projects/landing-page-ideas.html)
 
 ## Notes
 
