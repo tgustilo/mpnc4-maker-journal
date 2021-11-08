@@ -27,9 +27,9 @@ Check out these posts to see how I'm organizing work on specific projects.
 
 Here are my more or less systematic notes on how to do things in general.
 
-[Thinking through Landing Pages](#)
+[Thinking through Landing Pages](https://tgustilo.github.io/mpnc4-maker-journal/notes/landing-pages.html)
 
-[Thinking through CTAs](#)
+[Thinking through CTAs](https://tgustilo.github.io/mpnc4-maker-journal/notes/ctas.html)
 
 ---
 
