@@ -8,10 +8,26 @@ Gonna conquer Github! This is my build journal for Makerpad No Code Fundamentals
 
 ![It'll be a Mt Everest moment](https://2.bp.blogspot.com/_ORWcXb0DpMU/Sy1aoWRJdwI/AAAAAAAAAQg/oTsOjIwEMew/s640/1608191-Conquering-Everest-0.jpeg)
 
-## Posts
+## Daily(ish) Posts
 
 [Welcome - A first post](https://tgustilo.github.io/mpnc4-maker-journal/welcome.html)
 
+
+## Projects
+
+Check out these posts to see how I'm organizing work on specific projects.
+
+[Makerpad Cohort Assignments](https://tgustilo.github.io/mpnc4-maker-journal/projects/cohort-projects.html)
+
+[Landing Page Ideas](#)
+
+## Notes
+
+Here are my more or less systematic notes on how to do things in general.
+
+[Thinking through Landing Pages](#)
+
+[Thinking through CTAs](#)
 
 ---
 
