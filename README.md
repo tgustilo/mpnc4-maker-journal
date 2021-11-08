@@ -1,3 +1,7 @@
+This repo is my custom adaptation of Philip Levy's template as described below.
+
+---
+
 # Plain Vanilla GitHub Pages README
 The purpose of this project is to make as easy as possible for less-technical people to create and host basic web pages for free on [GitHub Pages](https://pages.github.com/).
 
