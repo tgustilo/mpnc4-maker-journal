@@ -4,9 +4,12 @@ This week's project is to work on landing pages.
 
 Steps completed today
 
-✅ added folders and drafts here on my build journal (put drafts in "_drafts" folder; folders will require an extra url step: my-site/posts/post1.html)
+✅ added folders and drafts here on my build journal (put drafts in \_drafts folder; folders will require an extra url step: my-site/posts/post1.html)
+
 ✅ added projects and notes folders, as well as posts; and added a couple files (see index)
+
 ✅ learned some more about how to use Github interface for editing (tricky! -- to create a folder, do it when you name it using "/"; to move a file back up out of a folder, use "../")
+
 ✅ learned that if you create a release/tag (snapshot), you have to go back to main or you can't edit
 
 Next steps
