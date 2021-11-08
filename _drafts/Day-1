@@ -1,46 +1,20 @@
 # Day 1
 
-This week's task is to work with landing pages.
+This week's project is to work on landing pages.
 
-A first question: **what projects need landing pages** for? IOW I don't need just one single page for my business. I will probably need to create several pages for major product launches or new initiatives, or even ideas or teasers (to see if they get any traction).
-So, 
+Worked on today
 
-- [] make a list of projects or initiatives that could use landing pages
-- [] add some key info to share on the page (see resources for making *good* landing pages, e.g. Shapiro
+✅ added folders and drafts here on my build journal (put drafts in "_drafts" folder; folders will require an extra url step: my-site/posts/post1.html)
+✅ added projects and notes folders, as well as posts; and added a couple files (see index)
+✅ learned some more about how to use Github interface for editing (tricky! -- to create a folder, do it when you name it using "/"; to move a file back up out of a folder, use "../")
+✅ learned that if you create a release/tag (snapshot), you have to go back to main or you can't edit
 
-Next, for any given landing page you need **basic resources**: colors, font(s), and image assets.
+Next steps
 
-- [] decide on and gather up branding and image assets; use color palette helpers, unsplash, illustrations or icons, brand assets (etc)
+- fix the formatting on tasks (displays fine in Github preview, but browser adds bullet in front of checkbox. For now, will just use an emoji or bullet instead)
+- choose which landing page you'll work on (see [Ideas](https://tgustilo.github.io/mpnc4-maker-journal/projects/landing-page-ideas.html)
 
-You'll need **ideas for design**. Check dribble, land-book site, and/or template options (per your website builder). Or prepare to DIY.
 
-- [] get an idea for the overall design of your landing page
-
-Choose your **website builder** (and template if you are using one). So far, I have worked with Carrd, Dorik, and Webflow. These are all fine options (at increasingly levels of featurs/power and complexity), so:
-
-- [] choose website builder & template, if desired (Carrd, Dorik, Webflow -- or other)
-
-Special components needed? If your template doesn't have some special components you might need (e.g. pricing table), consider getting them from elfsight.com or some other resource. (Note: see CTA, forms, etc next.)
-
-- [] plan for any special embeds you might need
-
-At this point, you can create a static page. IF you want/need a CTA, there are a variety of options. Basically, think about where you want people to enter your buyer's journey:
-
-- [] decide if you want people (basically) to 
-
-- a) follow you on social; 
-- b) sign up for your email list (for example with Mailchimp or ConvertKit); 
-- c) sign up for your newsletter; 
-- d) contact you (via a form); 
-- e) become a (free) member (i.e. do a genuine sign-up) right away.
-
-These are probably the main options for a CTA. 
-
-Note that you may need to provide a lead magnet to swap for an email address. (I won't address LMs here. It will take more than a simple landing page to offer one.)
-Without attaching some kind of payment system, a member sign-up will need to be free.
-The "power up" for this week's assignment is to include membership or community, so that applies especially to option e.
-
-Once you *decide* what kind of CTA you're going for, then it will be possible to figure out what tool options there are to accomplish it. See [Notes on CTAs](#)
 
 [Return home](https://github.com/tgustilo/mpnc4-maker-journal/index.html)
 
