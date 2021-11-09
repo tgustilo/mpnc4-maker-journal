@@ -10,10 +10,10 @@ Completed steps:
 
 Some next steps:
 
-- [ ] Need dated entry scheme (and commit to posting frequency)
+- [x] Need dated entry scheme (and commit to posting frequency)
 - [x] Need a landing / index page
 - [ ] Find / tweak a couple theme elements (css) (eventually see if I can build a custom theme via Webflow / export)
-- [ ] Create project pages to summarize milestones?
+- [x] Create project pages to summarize milestones?
 - [x] need to fix page header on notes to be blog title -> site title is in the config.yaml
 
 Welcome!

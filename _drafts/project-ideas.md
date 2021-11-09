@@ -10,9 +10,11 @@ Books & Places - along with Sustainable Dev Itinerary and WH for Travelers, this
 
 Take your Brand with You - or TOBY - CSS Suitcase - figures out which CSS (including image and icon assets) is most essential to your brand and figures out a way to create your brand(s), package it up, and drop it into any website without disrupting the rest of the css or theme. Can work on WP, webflow, other site builders, as well as markdown editor previews and exports (e.g. Ulysses, iAWriter, and so on). Relates (maybe) to classess css libraries which focus on specifying html tags only, which is what you need for markdown anyway. Could also specify certain components to drop in (cf elfsight?) but focus on branding them. E.g. logo, banner, top nav bars, footers, etc.
 
-Connected Content - this is really my project for this cohort. SEe separate page on this.
+Connected Content - this is really my project for this cohort. See separate page on this.
 
-Project Idea Manager - see my tweet. heh
+Project Idea Manager - see my tweet:
+I have a million ideas for projects as I participate in Makerpad's No Code Fundamentals cohort starting now. Maybe a first project ought to be to create a project idea manager. Cowboy hat faceNerd facePartying face #MPNC4
+
 
 Other - Homeschool projects
 

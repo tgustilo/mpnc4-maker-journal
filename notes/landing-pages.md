@@ -49,6 +49,5 @@ Note that you may need to provide a lead magnet to swap for an email address. (I
 Without attaching some kind of payment system, any member sign-up will need to be free.
 The "power up" for this week's assignment is to include membership or community, which applies especially to option e.
 
-Once you *decide* what kind of CTA you're going for, then it will be possible to figure out what tool options there are to accomplish it. See [Notes on CTAs](https://github.com/tgustilo/mpnc4-maker-journal/notes/ctas.html)
+Once you *decide* what kind of CTA you're going for, then it will be possible to figure out what tool options there are to accomplish it. See [Notes on CTAs](#)
 
-[Return home](https://github.com/tgustilo/mpnc4-maker-journal/notes/index.html)
