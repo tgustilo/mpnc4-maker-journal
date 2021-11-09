@@ -32,6 +32,8 @@ Outseta and Airtable are two friendly no-code options to manage a simple CRM. Li
 
 What do you do when you have a list of emails? You send emails. These could be marketing emails (of various sorts), or you could subscribe people to your newsletter.
 
+Note: podcasts, YouTube channels, and other regular content that may be subscribed to works like a cross between social media following and newsletter. Follow the best practices of your chosen platform.
+
 In this case, you could still use an ESP (most ESPs now offer simple newsletter services, along with bulk email blasts and automations), OR you could go direct and use a newsletter service such as Substack, Ghost, or Revue (Revue is now owned by TWitter and offers a potentially interesting combo strategy of social media, email capture, and newsletter). 
 
 Whatever newsletter service you choose will provide an embeddable sign-up form to drop on your website as usual, or you may use a service like this to power your website in the first place, e.g. Ghost. (Or, you can use your web builder's form and use an integration or Zap to send the data over to your newsletter service.)
@@ -55,6 +57,20 @@ Finally, if you want to allow visitors to sign up for an account or membership o
 Note that these services allow you also to put some content on your website (beyond the landing page) behind a gate or (pay)wall, so that members have to log in to be able to see it. It can still be free, but it's not available to the public. Obviously paid memberships could provide additional *paywalled* content.
 
 The "power up" for this week's assignment is to include membership or community, which applies especially to this last CTA option.
+
+## Option 6. You want visitors to interact with you via chat
+
+Intercom and other chat services can be embedded (and are becoming ubiquitous) on your landing page. (I'm not sure of the technical requirements to use these types of services.) If you're always available / live, or have customer support, there can be immediate interaction with a site visitor to answer questions. 
+
+Otherwise, a bot can capture contact info and the visitor's question, and/or provide some basic (predictable, scripted) info. Using a bot allows you to get back to the person later. Be sure to post your typical response time (and respond asap!).
+
+## Option 7. You want your visitors to register for an event, e.g. a webinar
+
+Create a "poster" for an event on your landing page, and include a registration button for an upcoming Zoom gathering. Live events, too, are becoming an ubiquitous method for people to engage with your brand, membership, or content offerings.
+
+## Option 8. You want your visitors to grab a spot on your calendar for a in-person chat
+
+Be careful with this option, but you could use Calendly to give visitors a link to sign up for a time on your calendar. It might be an alternative to using a contact form, or perhaps (better) a *second step* in getting to know a potential client, investor, or other visitor you want to engage one-on-one.
 
 ---
 
