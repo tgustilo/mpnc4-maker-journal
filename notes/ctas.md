@@ -1,4 +1,4 @@
-# Thinking throught CTAs
+# Thinking through CTAs
 
 There are five basic options for a landing page's CTA (Call to Action). You want your site visitors to *do* something, to respond in some way to what you're presenting. You want them to enter your "buyer's journey." 
 
@@ -6,13 +6,13 @@ There are five basic options for a landing page's CTA (Call to Action). You want
 
 The following options go from light responses to more intensive and committed responses from a site visitor to the CTA on your landing page.
 
-## You want visitors to follow you on social media
+## Option 1. You want visitors to follow you on social media
 
 In this case, your landing page strategy is simple. Get some nice social media icons and link them to your social accounts. Put them prominently on your page and perhaps include/embed a sample post or tweet.
 
 Asking for followers on social media assumes you *have social accounts set up* which are active and updated regularly. (Thus, to use this strategy you also need a social media marketing strategy and to understand how SM content will help your future customers, clients, and supporters.)
 
-## You want visitors to sign up for your email list
+## Option 2. You want visitors to sign up for your email list
 
 Almost all contemporary business wisdom emphasizes that you need to start right away to *grow your email list* (and/or "followers" -- see social media above). In this case, a landing page has as its primary CTA a way to capture email addresses.
 
@@ -28,7 +28,7 @@ Email lists are the traditional means of online marketing. You also have the opt
 
 Outseta and Airtable are two friendly no-code options to manage a simple CRM. Like an ESP, Outseta provides a drop-in capture form (they also provide direct membership sign-up -- see below). Or, you can Zap data from your website capture into Outseta or another CRM. Airtable will require a Zap to move data over. You can then configure Airtable however you like, as a light CRM, to work with your customer (potential customer) data.
 
-## You want visitors to sign up for your newsletter
+## Option 3. You want visitors to sign up for your newsletter
 
 What do you do when you have a list of emails? You send emails. These could be marketing emails (of various sorts), or you could subscribe people to your newsletter.
 
@@ -40,7 +40,7 @@ Do consider that just like when you ask visitors to follow you on social media, 
 
 Unless your main product or service is *already* to provide content (perhaps your newsletter *is* your business), this means you will have a lot of content to continually generate for marketing purposes. (This has to be factored in along with whatever content you need to create as your main product or service. Undoubtedly there is overlap, but you'll need a content management strategy.)
 
-## You want visitors to contact you / fill out a form
+## Option 4. You want visitors to contact you / fill out a form
 
 A somewhat different option, if you don't expect mass interest, would be to ask visitors to use a contact form. This could be an application for membership, or to "tell us what you're interested in," or to request a quote or talk about customized services you could provide.
 
@@ -48,7 +48,7 @@ In this case, your landing page CTA strategy will be to use either your web buil
 
 Usually contact forms (either on a website platform, or third party) will email you directly with the entered information, so you can respond accordingly. Or, you could work with the data as captured within your website platform OR use an integration or Zap to transfer the data to your CRM or elsewhere.
 
-## You want visitors to become a (free) member, i.e. do a genuine sign-up on your site, right away.
+## Option 5. You want visitors to become a (free) member, i.e. do a genuine sign-up on your site, right away
 
 Finally, if you want to allow visitors to sign up for an account or membership on your website right away (for free, unless you intend to integrate a payment system), again, you can either use your platform's built-in membership module (e.g. Ghost) or use a 3rd party membership plug-in / service such as Outseta, Memberspace, or Memberstack. 
 
