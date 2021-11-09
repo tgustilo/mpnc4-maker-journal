@@ -1,6 +1,6 @@
 # Thinking through CTAs
 
-There are five basic options for a landing page's CTA (Call to Action). You want your site visitors to *do* something, to respond in some way to what you're presenting. You want them to enter your "buyer's journey." 
+There are a range of options for a landing page's CTA (Call to Action). You want your site visitors to *do* something, to respond in some way to what you're presenting. If you're selling something, you want them to enter a "buyer's journey."
 
 (CTAs are forms or buttons that can go anywhere on your website, not just the landing page. But presumably the landing page's primary marketing purpose is to deliver a CTA and get visitors to engage.)
 
