@@ -68,7 +68,7 @@ Otherwise, a bot can capture contact info and the visitor's question, and/or pro
 
 Create a "poster" for an event on your landing page, and include a registration button for an upcoming Zoom gathering. Live events, too, are becoming an ubiquitous method for people to engage with your brand, membership, or content offerings.
 
-## Option 8. You want your visitors to grab a spot on your calendar for a in-person chat
+## Option 8. You want your visitors to grab a spot on your calendar for an in-person chat
 
 Be careful with this option, but you could use Calendly to give visitors a link to sign up for a time on your calendar. It might be an alternative to using a contact form, or perhaps (better) a *second step* in getting to know a potential client, investor, or other visitor you want to engage one-on-one.
 
