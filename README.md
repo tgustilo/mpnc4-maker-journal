@@ -1,4 +1,6 @@
-This repo is my custom adaptation of Philip Levy's template as described below.
+ABOUT
+
+This repo is my adaptation and use of Philip Levy's template as described below.
 
 ---
 
