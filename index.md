@@ -16,6 +16,8 @@ Gonna conquer Github! This is my build journal for Makerpad No Code Fundamentals
 
 [Day 2](https://tgustilo.github.io/mpnc4-maker-journal/journal/day2.html)
 
+[Day 3](https://tgustilo.github.io/mpnc4-maker-journal/journal/day3.html)
+
 
 ## Projects
 
